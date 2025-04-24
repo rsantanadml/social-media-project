@@ -5,8 +5,10 @@
     font-family: "Inter", sans-serif;
 }
 
-body{
+html, body{
     background-color: black;
+    overflow-x: hidden;
+    width: 100%;
 }
 
 #links-profile-container {
